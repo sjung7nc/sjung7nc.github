@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "| At the end of ST558-Data Science for Statisticians Course |"
+title: "| At the end of ST558 |"
 ---
-![r and data](https://user-images.githubusercontent.com/58168249/126904572-f0353079-ab49-4895-b701-0aaa45c5e887.png)
+![r and data](https://user-images.githubusercontent.com/58168249/126904572-f0353079-ab49-4895-b701-0aaa45c5e887.png)  
 
 Go back and read your initial blog post where we discussed data science as well as your blog post about your thoughts on R.  Write a reflection post about:
 
