@@ -1,5 +1,5 @@
 ---
-title: "About"   
+title: "Who Am I?"   
 author: "Soohee Jung"  
 date: "May 23,2021"  
 output:  
@@ -8,23 +8,26 @@ output:
         toc_float: true  
 ---
 
-*Soohee Jung*  
+# *Soohee Jung*  
 
-# More about me
+*I am a Korean-American woman. About 14 years ago, I moved into US and later I got a citizenship. I major in statistics at North Carolina State University. Learning programming languages and using them to investigate data sets are the most favorite activities to me.*  
 
-I am a **Korean-American**  
-Masters student at NCSU in **Statistics**  
-I want to be a **data scientist** after graduation
 
-# Skills
+## *Skills*
 
-Statistics, SAS, R, Languages(Korean, English, Chinese)
+### *Degree*  
+*Masters degree in Statistics*  
 
-## Contact me  
+### *Programming language*  
+*SAS: Advanced(Macro, Proc SQL, Array)*  
+*R: Good*  
+*Python: Basic*  
+
+### *Languages*  
+*Korean(Native), English, Chinese*  
+
+## *Contact me*  
  
-[email](mailto:sjung7@ncsu.edu)  
-
-[linkedin](https://www.linkedin.com/in/soohee-jung-2ba256201/)  
-
-![](https://raw.githubusercontent.com/sjung7nc/sjung7nc.github.io/master/images/ny.jpg)
+### [email](mailto:sjung7@ncsu.edu)  
+### [linkedin](https://www.linkedin.com/in/soohee-jung-2ba256201/)  
 
